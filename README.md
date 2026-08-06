@@ -4,6 +4,8 @@
 
 A LabVIEW module for grouped and foldable user interface built on the CSM (Communicable State Machine) framework.
 
+![界面截图](https://github.com/LiXinxing77/CSM-Modsets-Grouped-UI/blob/main/Pictures/Screenshot.jpg)
+
 ## 功能
 
 - 分组管理程序中的功能按钮
