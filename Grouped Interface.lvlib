@@ -9,31 +9,31 @@
 
 </Property>
 	<Item Name="Typedefs" Type="Folder">
-		<Item Name="Function Item--cluster.ctl" Type="VI" URL="../../UI-Frame/Libraries/Group Interface/Function Item--cluster.ctl"/>
-		<Item Name="Module Definition--cluster.ctl" Type="VI" URL="../../UI-Frame/Libraries/Group Interface/Module Definition--cluster.ctl"/>
-		<Item Name="Item Selected Arguments--cluster.ctl" Type="VI" URL="../../UI-Frame/Libraries/Group Interface/Item Selected Arguments--cluster.ctl"/>
-		<Item Name="Window Size Change Arguments--cluster.ctl" Type="VI" URL="../../UI-Frame/Libraries/Group Interface/Window Size Change Arguments--cluster.ctl"/>
-		<Item Name="User Data--cluster.ctl" Type="VI" URL="../../UI-Frame/Libraries/Group Interface/User Data--cluster.ctl"/>
+		<Item Name="Function Item--cluster.ctl" Type="VI" URL="../Grouped Interface/Function Item--cluster.ctl"/>
+		<Item Name="Module Definition--cluster.ctl" Type="VI" URL="../Grouped Interface/Module Definition--cluster.ctl"/>
+		<Item Name="Item Selected Arguments--cluster.ctl" Type="VI" URL="../Grouped Interface/Item Selected Arguments--cluster.ctl"/>
+		<Item Name="Window Size Change Arguments--cluster.ctl" Type="VI" URL="../Grouped Interface/Window Size Change Arguments--cluster.ctl"/>
+		<Item Name="User Data--cluster.ctl" Type="VI" URL="../Grouped Interface/User Data--cluster.ctl"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Initialize Function List.vi" Type="VI" URL="../../UI-Frame/Libraries/Group Interface/Initialize Function List.vi"/>
+		<Item Name="Initialize Function List.vi" Type="VI" URL="../Grouped Interface/Initialize Function List.vi"/>
 		<Item Name="Match Window Size.vi" Type="VI" URL="../../UI-Frame/Libraries/Group Interface/Match Window Size.vi"/>
-		<Item Name="Disable Item.vi" Type="VI" URL="../../UI-Frame/Libraries/Group Interface/Disable Item.vi"/>
-		<Item Name="Enable Item.vi" Type="VI" URL="../../UI-Frame/Libraries/Group Interface/Enable Item.vi"/>
+		<Item Name="Disable Item.vi" Type="VI" URL="../Grouped Interface/Disable Item.vi"/>
+		<Item Name="Enable Item.vi" Type="VI" URL="../Grouped Interface/Enable Item.vi"/>
 		<Item Name="Rename Item.vi" Type="VI" URL="../../UI-Frame/Libraries/Group Interface/Rename Item.vi"/>
-		<Item Name="Stop Module Interface.vi" Type="VI" URL="../../UI-Frame/Libraries/Group Interface/Stop Module Interface.vi"/>
+		<Item Name="Stop Module Interface.vi" Type="VI" URL="../Grouped Interface/Stop Module Interface.vi"/>
 		<Item Name="Start Module Interface.vi" Type="VI" URL="../../UI-Frame/Libraries/Group Interface/Start Module Interface.vi"/>
-		<Item Name="Read UI Setting.vi" Type="VI" URL="../../UI-Frame/Libraries/Group Interface/Read UI Setting.vi"/>
-		<Item Name="Update SubPanel Size.vi" Type="VI" URL="../../UI-Frame/Libraries/Group Interface/Update SubPanel Size.vi"/>
-		<Item Name="Arrange SubPanels.vi" Type="VI" URL="../../UI-Frame/Libraries/Group Interface/Arrange SubPanels.vi"/>
-		<Item Name="Generate Window Title.vi" Type="VI" URL="../../UI-Frame/Libraries/Group Interface/Generate Window Title.vi"/>
-		<Item Name="Module Interface.vi" Type="VI" URL="../../UI-Frame/Libraries/Group Interface/Module Interface.vi"/>
+		<Item Name="Read UI Setting.vi" Type="VI" URL="../Grouped Interface/Read UI Setting.vi"/>
+		<Item Name="Update SubPanel Size.vi" Type="VI" URL="../Grouped Interface/Update SubPanel Size.vi"/>
+		<Item Name="Arrange SubPanels.vi" Type="VI" URL="../Grouped Interface/Arrange SubPanels.vi"/>
+		<Item Name="Generate Window Title.vi" Type="VI" URL="../Grouped Interface/Generate Window Title.vi"/>
+		<Item Name="Module Interface.vi" Type="VI" URL="../Grouped Interface/Module Interface.vi"/>
 	</Item>
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
-		<Item Name="Unregister Window.vi" Type="VI" URL="../../UI-Frame/Libraries/Group Interface/Unregister Window.vi"/>
-		<Item Name="Register Window.vi" Type="VI" URL="../../UI-Frame/Libraries/Group Interface/Register Window.vi"/>
+		<Item Name="Unregister Window.vi" Type="VI" URL="../Grouped Interface/Unregister Window.vi"/>
+		<Item Name="Register Window.vi" Type="VI" URL="../Grouped Interface/Register Window.vi"/>
 	</Item>
 	<Item Name="Grouped Interface.vi" Type="VI" URL="../Grouped Interface.vi"/>
 </Library>

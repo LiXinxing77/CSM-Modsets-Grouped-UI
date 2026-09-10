@@ -96,24 +96,11 @@
 				<Item Name="Unset Busy.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Unset Busy.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Arrange SubPanels.vi" Type="VI" URL="../Grouped Interface/Arrange SubPanels.vi"/>
-			<Item Name="Function Item--cluster.ctl" Type="VI" URL="../Grouped Interface/Function Item--cluster.ctl"/>
-			<Item Name="Generate Window Title.vi" Type="VI" URL="../Grouped Interface/Generate Window Title.vi"/>
-			<Item Name="Initialize Function List.vi" Type="VI" URL="../Grouped Interface/Initialize Function List.vi"/>
-			<Item Name="Item Selected Arguments--cluster.ctl" Type="VI" URL="../Grouped Interface/Item Selected Arguments--cluster.ctl"/>
 			<Item Name="lvinput.dll" Type="Document" URL="/&lt;resource&gt;/lvinput.dll"/>
-			<Item Name="Match Window Size.vi" Type="VI" URL="../Grouped Interface/Match Window Size.vi"/>
-			<Item Name="Module Definition--cluster.ctl" Type="VI" URL="../Grouped Interface/Module Definition--cluster.ctl"/>
-			<Item Name="Module Interface.vi" Type="VI" URL="../Grouped Interface/Module Interface.vi"/>
-			<Item Name="Read UI Setting.vi" Type="VI" URL="../Grouped Interface/Read UI Setting.vi"/>
 			<Item Name="Start Module Interface.vi" Type="VI" URL="../Grouped Interface/Start Module Interface.vi"/>
-			<Item Name="Stop Module Interface.vi" Type="VI" URL="../Grouped Interface/Stop Module Interface.vi"/>
-			<Item Name="Update SubPanel Size.vi" Type="VI" URL="../Grouped Interface/Update SubPanel Size.vi"/>
-			<Item Name="User Data--cluster.ctl" Type="VI" URL="../Grouped Interface/User Data--cluster.ctl"/>
 			<Item Name="user32.dll" Type="Document" URL="user32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Window Size Change Arguments--cluster.ctl" Type="VI" URL="../Grouped Interface/Window Size Change Arguments--cluster.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
