@@ -18,12 +18,12 @@
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Initialize Function List.vi" Type="VI" URL="../Grouped Interface/Initialize Function List.vi"/>
-		<Item Name="Match Window Size.vi" Type="VI" URL="../../UI-Frame/Libraries/Group Interface/Match Window Size.vi"/>
+		<Item Name="Match Window Size.vi" Type="VI" URL="../Grouped Interface/Match Window Size.vi"/>
 		<Item Name="Disable Item.vi" Type="VI" URL="../Grouped Interface/Disable Item.vi"/>
 		<Item Name="Enable Item.vi" Type="VI" URL="../Grouped Interface/Enable Item.vi"/>
-		<Item Name="Rename Item.vi" Type="VI" URL="../../UI-Frame/Libraries/Group Interface/Rename Item.vi"/>
+		<Item Name="Rename Item.vi" Type="VI" URL="../Grouped Interface/Rename Item.vi"/>
 		<Item Name="Stop Module Interface.vi" Type="VI" URL="../Grouped Interface/Stop Module Interface.vi"/>
-		<Item Name="Start Module Interface.vi" Type="VI" URL="../../UI-Frame/Libraries/Group Interface/Start Module Interface.vi"/>
+		<Item Name="Start Module Interface.vi" Type="VI" URL="../Grouped Interface/Start Module Interface.vi"/>
 		<Item Name="Read UI Setting.vi" Type="VI" URL="../Grouped Interface/Read UI Setting.vi"/>
 		<Item Name="Update SubPanel Size.vi" Type="VI" URL="../Grouped Interface/Update SubPanel Size.vi"/>
 		<Item Name="Arrange SubPanels.vi" Type="VI" URL="../Grouped Interface/Arrange SubPanels.vi"/>
